@@ -1,0 +1,26 @@
+{
+    "name": "bendor_name/ssit-new-project",
+    "description": "description",
+    "minimum-stability": "stable",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [{
+        "name": "sofiul ",
+        "email": "mdsofiul1997@gmail.com"
+    }],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "require-dev": {
+
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+
+
+
+}
